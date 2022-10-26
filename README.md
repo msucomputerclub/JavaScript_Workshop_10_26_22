@@ -37,10 +37,10 @@ Before starting , you need to have [Git](https://git-scm.com) and [VS Code](http
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Ewynman/js-workshop-10-12-22
+$git clone  https://github.com/msucomputerclub/JavaScript_Workshop_10_26_22.git
 
 # Access
-$ cd js-workshop-10-12-22
+$ cd JavaScript_Workshop_10_26_22.git
 
 # Install dependencies
 $ yarn
